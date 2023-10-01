@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shybymh&label=Profile%20views&color=0e75b6&style=flat" alt="shybymh" /> </p>
 
-- 💬 Ask me about **React, Javascript, HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **shybynoush@gmail.com**
 
