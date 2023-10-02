@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
-- 📫 How to reach me **shybynoush@gmail.com**
+- 📫 How to reach me **shybyhamza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
