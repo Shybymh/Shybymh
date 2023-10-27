@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shybymh&show_icons=true&locale=en&layout=compact" alt="shybymh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shybymh&show_icons=true&locale=en" alt="shybymh" /></p>
+
+[![An image of @shybymh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shybymh)](https://holopin.io/@shybymh)
