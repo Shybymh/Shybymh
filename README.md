@@ -22,3 +22,5 @@
 <h1>Hacktoberfest 2023 Badges</h1>
 
 [![An image of @shybymh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shybymh)](https://holopin.io/@shybymh)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shybymh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
