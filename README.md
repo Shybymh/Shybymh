@@ -19,4 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shybymh&show_icons=true&locale=en" alt="shybymh" /></p>
 
+<h1>Hacktoberfest 2023</h1>
+
 [![An image of @shybymh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shybymh)](https://holopin.io/@shybymh)
